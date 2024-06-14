@@ -17,7 +17,7 @@ MonoBehaviour:
   - referencePaths: []
     modName: ExampleMapMod
     modAuthor: YangLi
-    modVersion: 1.0.4
+    modVersion: 1.0.5
     modDescription: This is an example map mod for nightclub simulator
     modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\ExampleMapMod
     modExportPath: E:/Quest
