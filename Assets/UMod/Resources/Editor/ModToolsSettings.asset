@@ -15,18 +15,18 @@ MonoBehaviour:
   toolsIconSmall: {fileID: 2800000, guid: 6ce00592632851a49a21d9446e03be4d, type: 3}
   toolsIconLarge: {fileID: 2800000, guid: 6ce00592632851a49a21d9446e03be4d, type: 3}
   toolsName: NCS Mod Tools
-  toolsVersion: 1.0.2
+  toolsVersion: 1.0.3
   firstRunWindow:
     assemblyQualifiedName: 
   developerName: mandegames
   syncDeveloperName: 0
   gameName: Nightclub Simulator
   syncGameName: 0
-  gameVersion: 0.50
+  gameVersion: 0.51
   syncGameVersion: 1
   modFileExtension: .ncsmod
   commandLineLaunchFormat: +mod=$PATH
-  targetUnityVersion: 2022.3.31f1
+  targetUnityVersion: 2022.3.33f1
   allowAnyUnityVersion: 1
   developerWebsiteURL: https://mandegames.com/
   onlineDocumentationURL: https://mandegames.com/
