@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -2028264498, guid: 4d9ac0cbb6dcbc8428255d2df10dafee, type: 3}
   m_Name: ExportSettings
   m_EditorClassIdentifier: 
-  activeProfile: 1
+  activeProfile: 2
   exportProfiles:
   - referencePaths: []
     modName: ExampleMapMod
@@ -28,6 +28,14 @@ MonoBehaviour:
     modVersion: 1.0.0
     modDescription: 
     modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\ExampleStabbingWeaponMod
+    modExportPath: E:/Quest
+    modIcon: {fileID: 2800000, guid: 6ce00592632851a49a21d9446e03be4d, type: 3}
+  - referencePaths: []
+    modName: ExampleNPCMod
+    modAuthor: YangLi
+    modVersion: 1.0.0
+    modDescription: 
+    modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\ExampleNPCMod
     modExportPath: E:/Quest
     modIcon: {fileID: 2800000, guid: 6ce00592632851a49a21d9446e03be4d, type: 3}
   logLevel: 3
