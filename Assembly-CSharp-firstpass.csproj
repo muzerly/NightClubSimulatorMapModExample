@@ -429,7 +429,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.5\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UMod-ModTools">
@@ -1098,6 +1098,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Kybernetik.UltEvents.Editor.csproj">
+      <Project>{5D86C0CE-AD54-CFCC-3F82-B6A0D83CBBCF}</Project>
+      <Name>Kybernetik.UltEvents.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Kybernetik.UltEvents.csproj">
+      <Project>{C585BB55-C905-72C6-F929-82C1DFE6B26C}</Project>
+      <Name>Kybernetik.UltEvents</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

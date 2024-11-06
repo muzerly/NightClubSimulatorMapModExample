@@ -1,0 +1,25 @@
+{
+    "name": "Kybernetik.UltEvents",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.physics",
+            "expression": "",
+            "define": "UNITY_PHYSICS_3D"
+        },
+        {
+            "name": "com.unity.modules.physics2d",
+            "expression": "",
+            "define": "UNITY_PHYSICS_2D"
+        }
+    ],
+    "noEngineReferences": false
+}
