@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -2028264498, guid: 4d9ac0cbb6dcbc8428255d2df10dafee, type: 3}
   m_Name: ExportSettings
   m_EditorClassIdentifier: 
-  activeProfile: 0
+  activeProfile: 4
   exportProfiles:
   - referencePaths: []
     modName: ExampleMapMod
@@ -38,6 +38,22 @@ MonoBehaviour:
     modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\ExampleNPCMod
     modExportPath: E:/Quest
     modIcon: {fileID: 2800000, guid: 6ce00592632851a49a21d9446e03be4d, type: 3}
+  - referencePaths: []
+    modName: Crossbow
+    modAuthor: DefaultCompany
+    modVersion: 1.0.0
+    modDescription: 
+    modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\Crossbow
+    modExportPath: 
+    modIcon: {fileID: 0}
+  - referencePaths: []
+    modName: FlareGun
+    modAuthor: YangLi
+    modVersion: 1.0.0
+    modDescription: 
+    modAssetPath: E:/workGit/NightClubSimulatorMapModExample/Assets/FlareGun
+    modExportPath: E:/Quest
+    modIcon: {fileID: 0}
   logLevel: 3
   optimizeMode: 0
   compressionLevel: 2
