@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -2028264498, guid: 4d9ac0cbb6dcbc8428255d2df10dafee, type: 3}
   m_Name: ExportSettings
   m_EditorClassIdentifier: 
-  activeProfile: 3
+  activeProfile: 5
   exportProfiles:
   - referencePaths: []
     modName: ExampleMapMod
@@ -52,6 +52,14 @@ MonoBehaviour:
     modVersion: 1.0.0
     modDescription: 
     modAssetPath: E:/workGit/NightClubSimulatorMapModExample/Assets/FlareGun
+    modExportPath: E:/Quest
+    modIcon: {fileID: 0}
+  - referencePaths: []
+    modName: Grenade
+    modAuthor: DefaultCompany
+    modVersion: 1.0.0
+    modDescription: 
+    modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\Grenade
     modExportPath: E:/Quest
     modIcon: {fileID: 0}
   logLevel: 3

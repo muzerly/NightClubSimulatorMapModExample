@@ -61,33 +61,56 @@
     <Analyzer Include="D:\6000.0.36f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\FlareGun\Flare Gun\Scripts\flarebullet.cs" />
-    <Compile Include="Assets\FlareGun\Flare Gun\Scripts\flareround.cs" />
-    <Compile Include="Assets\FlareGun\Flare Gun\Scripts\Flaregun.cs" />
-    <Compile Include="Assets\FlareGun\Flare Gun\Scripts\swayc.cs" />
+    <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Ramps\Runtime\RampAsset.cs" />
+    <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts\AdjustTimeScale.cs" />
+    <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts\SimpleCameraController.cs" />
+    <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts\SimpleCharacterMotor.cs" />
+    <Compile Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Scripts\SpawnEffect.cs" />
+    <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts\ProximityActivate.cs" />
+    <Compile Include="Assets\UnityTechnologies\ParticlePack\TutorialInfo\Scripts\Readme.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Medieval soldiers pack\Medieval_Soldier_2\Shaders\Standart(two_sided).shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\FlareGun\Readme.txt" />
-    <None Include="Assets\Medieval soldiers pack\Medieval_Soldier_3\Shaders\SSS_shader.shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
     <None Include="Assets\ExampleMapMod\Readme.txt" />
     <None Include="Assets\Crossbow\Readme.txt" />
-    <None Include="Assets\Medieval soldiers pack\Medieval_Soldier_5\Shaders\Standart(two_sided).shader" />
-    <None Include="Assets\Medieval soldiers pack\Medieval_Soldier_4\Shaders\Standart(two_sided).shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Prefabs\Readme_Dissolve_Respawn_.txt" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\ExampleNPCMod\Readme.txt" />
     <None Include="Assets\UMod\Plugin\UMod-Interface.dll" />
-    <None Include="Assets\Medieval soldiers pack\Medieval_Soldier_4\Shaders\SSS_shader.shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Magic Effects\Shaders\Ice.shader" />
+    <None Include="Assets\Crossbow\RyuGiKen\Crossbow\README.txt" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Shaders\Respawn.shader" />
     <None Include="Assets\UMod\Plugin\Trivial.Mono.Cecil.dll" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\UMod\Plugin\Trivial.CodeSecurity.dll" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\ExampleStabbingWeaponMod\Readme.txt" />
     <None Include="Assets\UMod\Plugin\Trivial.Mono.Cecil.Pdb.dll" />
-    <None Include="Assets\Medieval soldiers pack\Medieval_Soldier_5\Shaders\SSS_shader.shader" />
-    <None Include="Assets\Medieval soldiers pack\Medieval_Soldier\Shaders\Standart(two_sided).shader" />
-    <None Include="Assets\Medieval soldiers pack\Medieval_Soldier\Shaders\SSS_shader.shader" />
-    <None Include="Assets\Medieval soldiers pack\Medieval_Soldier_2\Shaders\SSS_shader.shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\Grenade\Readme.txt" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Shaders\FireFly.shader" />
     <None Include="Assets\UMod\Plugin\UMod-ModTools.dll" />
-    <None Include="Assets\Medieval soldiers pack\Medieval_Soldier_3\Shaders\Standart(two_sided).shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\UMod\ResourcesGenerated\Referencing\AssemblyCache\active.txt" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\UMod\Plugin\UMod-Shared.dll" />
+    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
