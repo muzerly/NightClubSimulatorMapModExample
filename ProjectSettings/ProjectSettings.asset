@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 969e1a9d540aa5742bd79cd5d805c939
+  productGUID: 5e8512cf5376fae4bae42e1e62c3ff30
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -256,7 +256,7 @@ PlayerSettings:
   clonedFromGUID: 09aa20b9ef5065c4b9474aa513fe2716
   templatePackageId: 
   templateDefaultScene: Assets/Scenes/SampleScene.unity
-  useCustomMainManifest: 1
+  useCustomMainManifest: 0
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 0
   useCustomLauncherGradleManifest: 0

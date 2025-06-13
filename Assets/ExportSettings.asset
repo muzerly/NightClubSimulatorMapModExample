@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -2028264498, guid: 4d9ac0cbb6dcbc8428255d2df10dafee, type: 3}
   m_Name: ExportSettings
   m_EditorClassIdentifier: 
-  activeProfile: 6
+  activeProfile: 10
   exportProfiles:
   - referencePaths: []
     modName: ExampleMapMod
@@ -68,6 +68,46 @@ MonoBehaviour:
     modVersion: 1.0.0
     modDescription: 
     modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\RevolverGun
+    modExportPath: E:/Quest
+    modIcon: {fileID: 0}
+  - referencePaths: []
+    modName: Handcuff
+    modAuthor: DefaultCompany
+    modVersion: 1.0.0
+    modDescription: 
+    modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\Handcuff
+    modExportPath: E:/Quest
+    modIcon: {fileID: 0}
+  - referencePaths: []
+    modName: TestGun
+    modAuthor: DefaultCompany
+    modVersion: 1.0.0
+    modDescription: 
+    modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\TestGun
+    modExportPath: 
+    modIcon: {fileID: 0}
+  - referencePaths: []
+    modName: WeaponPack
+    modAuthor: DefaultCompany
+    modVersion: 1.0.0
+    modDescription: 
+    modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\WeaponPack
+    modExportPath: E:/Quest
+    modIcon: {fileID: 0}
+  - referencePaths: []
+    modName: Flamethrower
+    modAuthor: DefaultCompany
+    modVersion: 1.0.0
+    modDescription: 
+    modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\Flamethrower
+    modExportPath: E:/Quest
+    modIcon: {fileID: 0}
+  - referencePaths: []
+    modName: AWP
+    modAuthor: DefaultCompany
+    modVersion: 1.0.0
+    modDescription: 
+    modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\AWP
     modExportPath: E:/Quest
     modIcon: {fileID: 0}
   logLevel: 3

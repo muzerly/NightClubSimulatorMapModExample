@@ -71,6 +71,5 @@ AssetOrigin:
   productId: 127325
   packageName: Particle Pack
   packageVersion: 3.1
-  assetPath: Assets/UnityTechnologies/ParticlePack/EffectExamples/Fire & Explosion
-    Effects/Textures/SmokePuff01.tif
+  assetPath: Assets/Grenade/VFX/SmokePuff01.tif
   uploadId: 691001

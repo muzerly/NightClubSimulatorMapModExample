@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6242c8187000bac4b8896b500b03422e
+timeCreated: 1519934749
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126024
+  packageName: Flame Thrower
+  packageVersion: 1.0
+  assetPath: Assets/Mars Model Pack v1/Models/Flamethrower/Materials/FlameThrower.mat
+  uploadId: 261340
