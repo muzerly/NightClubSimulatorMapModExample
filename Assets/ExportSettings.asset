@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -2028264498, guid: 4d9ac0cbb6dcbc8428255d2df10dafee, type: 3}
   m_Name: ExportSettings
   m_EditorClassIdentifier: 
-  activeProfile: 10
+  activeProfile: 1
   exportProfiles:
   - referencePaths: []
     modName: ExampleMapMod
@@ -109,6 +109,14 @@ MonoBehaviour:
     modDescription: 
     modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\AWP
     modExportPath: E:/Quest
+    modIcon: {fileID: 0}
+  - referencePaths: []
+    modName: Chainsaw
+    modAuthor: DefaultCompany
+    modVersion: 1.0.0
+    modDescription: 
+    modAssetPath: E:\workGit\NightClubSimulatorMapModExample\Assets\Chainsaw
+    modExportPath: 
     modIcon: {fileID: 0}
   logLevel: 3
   optimizeMode: 0
