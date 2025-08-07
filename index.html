@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NightClub Simulator VR</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- TikTok Pixel Code Start -->
+<script>
+!function (w, d, t) {
+  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie","holdConsent","revokeConsent","grantConsent"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(
+var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var r="https://analytics.tiktok.com/i18n/pixel/events.js",o=n&&n.partner;ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=r,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script")
+;n.type="text/javascript",n.async=!0,n.src=r+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+
+
+  ttq.load('D29K96JC77U9TM7VT9MG');
+  ttq.page();
+}(window, document, 'ttq');
+</script>
+<!-- TikTok Pixel Code End -->
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      height: 100vh;
+      width: 100vw;
+      background: url('bg.png') no-repeat center center/cover;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: #fff;
+      font-family: 'Arial Rounded MT Bold', Arial, Helvetica, sans-serif;
+      position: relative;
+      min-height: 100vh;
+      overflow: hidden;
+    }
+    .overlay {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background: rgba(0,0,0,0.6);
+      z-index: 0;
+    }
+    .content {
+      position: relative;
+      z-index: 1;
+      text-align: center;
+      width: 90vw;
+      max-width: 420px;
+    }
+    .title {
+      font-size: 2.5rem;
+      font-weight: bold;
+      margin-bottom: 2.5rem;
+      margin-top: 4rem;
+      letter-spacing: 2px;
+      text-shadow: 0 4px 12px rgba(0,0,0,0.45);
+    }
+    .discord-btn {
+      padding: 1rem 2.2rem;
+      font-size: 1.2rem;
+      background: linear-gradient(90deg, #5865f2 60%, #36393f 100%);
+      color: #fff;
+      border: none;
+      border-radius: 999px;
+      box-shadow: 0 4px 14px rgba(54,97,242,0.2);
+      cursor: pointer;
+      transition: background 0.25s, transform 0.12s;
+      font-weight: bold;
+      letter-spacing: 1px;
+    }
+    .discord-btn:hover {
+      background: linear-gradient(90deg, #36393f 0%, #5865f2 100%);
+      transform: translateY(-2px) scale(1.04);
+    }
+    @media (max-width: 600px) {
+      .title { font-size: 2rem; margin-top: 2.5rem; }
+      .discord-btn { font-size: 1rem; padding: 0.8rem 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay"></div>
+  <div class="content">
+    <div class="title">NightClub Simulator VR</div>
+    <button class="discord-btn"
+      onclick="window.open('https://discord.gg/74K429PbSH', '_blank')">
+      Join Discord
+    </button>
+  </div>
+</body>
+</html>
