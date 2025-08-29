@@ -61,63 +61,131 @@
     <Analyzer Include="D:\6000.0.41f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Scripts\SpawnEffect.cs" />
-    <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts\ProximityActivate.cs" />
-    <Compile Include="Assets\UnityTechnologies\ParticlePack\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Ramps\Runtime\RampAsset.cs" />
-    <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts\AdjustTimeScale.cs" />
-    <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts\SimpleCameraController.cs" />
-    <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts\SimpleCharacterMotor.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\GlobalFog.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\ContrastEnhance.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\ImageEffects.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\CreaseShading.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\ScreenOverlay.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\TiltShift.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionCurves.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\SunShafts.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\Tonemapping.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\DepthOfField.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsBase.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\ContrastStretch.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\Fisheye.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndGrain.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndScratches.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\BlurOptimized.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\Grayscale.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Scripts\Viewer.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\EdgeDetection.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\MotionBlur.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\Quads.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs" />
+    <Compile Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Scripts\SepiaTone.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\WeaponPack\RevolverGun\Readme.txt" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\README.txt" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\VortexEffect.shader" />
     <None Include="Assets\FlareGun\Readme.txt" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrain.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
     <None Include="Assets\ExampleMapMod\Readme.txt" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
     <None Include="Assets\Crossbow\Readme.txt" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\RevolverGun\Readme.txt" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Prefabs\Readme_Dissolve_Respawn_.txt" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\VignettingShader.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\TwirlEffect.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Adaptation.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlur.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceAmbientObscurance.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />
     <None Include="Assets\ExampleNPCMod\Readme.txt" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\MotionBlurClear.shader" />
     <None Include="Assets\UMod\Plugin\UMod-Interface.dll" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Magic Effects\Shaders\Ice.shader" />
-    <None Include="Assets\WeaponPack\Crossbow\RyuGiKen\Crossbow\README.txt" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\SepiaToneEffect.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\SimpleClear.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader" />
     <None Include="Assets\Crossbow\RyuGiKen\Crossbow\README.txt" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Shaders\Respawn.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader" />
     <None Include="Assets\UMod\Plugin\Trivial.Mono.Cecil.dll" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
+    <None Include="Assets\UMod\ResourcesGenerated\Referencing\AssemblyCache\active.txt" />
     <None Include="Assets\UMod\Plugin\Trivial.CodeSecurity.dll" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF.shader" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
     <None Include="Assets\ExampleStabbingWeaponMod\Readme.txt" />
     <None Include="Assets\UMod\Plugin\Trivial.Mono.Cecil.Pdb.dll" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-    <None Include="Assets\WeaponPack\Readme.txt" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
     <None Include="Assets\Flamethrower\Readme.txt" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\PrepareSunShaftsBlur.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\GrayscaleEffect.shader" />
     <None Include="Assets\Grenade\Readme.txt" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader" />
     <None Include="Assets\Handcuff\Readme.txt" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Shaders\FireFly.shader" />
-    <None Include="Assets\WeaponPack\Crossbow\Readme.txt" />
-    <None Include="Assets\WeaponPack\Grenade\Readme.txt" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader" />
     <None Include="Assets\UMod\Plugin\UMod-ModTools.dll" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\NFAA.shader" />
     <None Include="Assets\UMod\Plugin\UMod-Shared.dll" />
-    <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader" />
+    <None Include="Assets\Extreme Vehicle Pack\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -572,6 +640,10 @@
       <HintPath>D:\6000.0.41f1\Editor\Data\Managed\UnityEngine\UnityEditor.XRModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>Library\PackageCache\com.unity.collections@56bff8827a7e\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd\net40\unity-custom\nunit.framework.dll</HintPath>
       <Private>False</Private>
@@ -600,20 +672,16 @@
       <HintPath>Library\PackageCache\com.unity.visualscripting@7dcdc439b230\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f\Mono.Cecil.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="UMod-ModTools">
       <HintPath>Assets\UMod\Plugin\UMod-ModTools.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UMod-Shared">
       <HintPath>Assets\UMod\Plugin\UMod-Shared.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Mono.Cecil">
-      <HintPath>Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f\Mono.Cecil.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>Library\PackageCache\com.unity.collections@56bff8827a7e\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Android.Types">
@@ -1120,8 +1188,8 @@
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.AI.Navigation">
-      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
+    <Reference Include="Unity.Searcher.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
@@ -1132,8 +1200,8 @@
       <HintPath>Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Searcher.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+    <Reference Include="Unity.AI.Navigation">
+      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
@@ -1164,12 +1232,16 @@
       <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
-      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
@@ -1182,10 +1254,6 @@
     </Reference>
     <Reference Include="Unity.Multiplayer.Center.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
